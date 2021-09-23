@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # PatchReview
 # Copyright (C) 2021 Kevin Breen, Immersive Labs
 # https://github.com/Immersive-Labs-Sec/msrc-api
